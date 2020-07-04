@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Info about how this site was built
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This is a free static site created and hosted with github. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I followed the simple process here to get started - https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
