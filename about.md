@@ -6,6 +6,8 @@ permalink: "/about/"
 ---
 I currently live in Bloomington, IN with my wife ([http://stephaniemackphotography.com/](http://stephaniemackphotography.com/ "http://stephaniemackphotography.com/")) and our two rescue pups.
 
+***
+
 ### Drumming
 
 ![](/uploads/screen-shot-2020-07-04-at-9-41-32-pm.png)[https://truus.bandcamp.com/](https://truus.bandcamp.com/releases "https://truus.bandcamp.com/releases") - black metal
