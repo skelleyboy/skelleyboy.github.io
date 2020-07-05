@@ -8,6 +8,8 @@ I currently live in Bloomington, IN with my wife [Stephanie Mack](http://stephan
 
 <br><br>
 
+Other things I am passionate about
+
 <br><br>
 
 ### Drumming
