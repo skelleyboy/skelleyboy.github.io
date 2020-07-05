@@ -16,4 +16,4 @@ This is a free static blog created and hosted with github. You can very easily a
 
 ![](/uploads/246921_10150211887361958_5435100_n.jpg)
 
-> Hanoi Rocks
+> 19 in Vietnam. Hanoi Rocks
