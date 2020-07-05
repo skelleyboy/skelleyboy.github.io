@@ -10,7 +10,7 @@ I currently live in Bloomington, IN with my wife [Stephanie Mack](http://stephan
 
 ## Other things I am passionate about
 
-<br><br>
+<br>
 
 ### Drumming
 
