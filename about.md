@@ -12,7 +12,9 @@ I currently live in Bloomington, IN with my wife [Stephanie Mack](http://stephan
 
 ### Drumming
 
-<br><br>
+Diy music and drumming has been a passion of mine since I was a teenager. Most of my initial interest in learning design relates back to countless hours making band websites for friends in my local music scene growing up.
+
+Here are some of the projects I have drummed/ collaborated on -
 
 ![](/uploads/screen-shot-2020-07-04-at-9-41-32-pm.png)[truus.bandcamp.com](https://truus.bandcamp.com/releases "https://truus.bandcamp.com/releases") - black metal
 
