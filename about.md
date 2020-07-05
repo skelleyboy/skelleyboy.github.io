@@ -1,15 +1,21 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+
 ---
+I currently live in Bloomington, IN with my wife ([http://stephaniemackphotography.com/](http://stephaniemackphotography.com/ "http://stephaniemackphotography.com/")) and our two rescue pups.
 
-Some information about you!
+### Drumming
 
-### More Information
+I have played drums  and collaborated in various diy bands since I was a teenager. Here are some of my past projects.
 
-A place to include any other types of information that you'd like to include about yourself.
+![](/uploads/screen-shot-2020-07-04-at-9-41-32-pm.png)[https://truus.bandcamp.com/](https://truus.bandcamp.com/releases "https://truus.bandcamp.com/releases") - black metal
+
+![](/uploads/image1.JPG)![](/uploads/11073465_10152826929096958_3718963043507169441_n.jpg)
+
+[https://widowandchildren.bandcamp.com/](https://widowandchildren.bandcamp.com/album/volume-i "https://widowandchildren.bandcamp.com/album/volume-i") - heavy doom
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dannyskelley@gmail.com](dannyskellkey@gmail.com "dannyskellkey@gmail.com")
