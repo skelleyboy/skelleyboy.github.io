@@ -4,11 +4,13 @@ title: About
 permalink: "/about/"
 
 ---
-I currently live in Bloomington, IN with my wife [Stephanie Mack](http://stephaniemackphotography.com/) and our two rescue pups Bömber & Grimley.
+I currently live in Bloomington, IN with my wife [Stephanie Mack](http://stephaniemackphotography.com/) and our two rescue pups Bömber & Grimley.  
 
   
 
-### Drumming
+### Drumming  
+
+  
 
 ![](/uploads/screen-shot-2020-07-04-at-9-41-32-pm.png)[truus.bandcamp.com](https://truus.bandcamp.com/releases "https://truus.bandcamp.com/releases") - black metal
 
@@ -27,11 +29,7 @@ I currently live in Bloomington, IN with my wife [Stephanie Mack](http://stephan
 
 Vinyl released on [Found Object](http://www.foundobjectrecords.com/offerings/widowandchildren) (Austin, TX) tape on Hellas (Indonesia)
 
-![](/uploads/a2103755347_16.jpg)[mushroomstar.bandcamp.com](https://mushroomstar.bandcamp.com/album/1-11-demo "https://mushroomstar.bandcamp.com/album/1-11-demo") - raw black metal  
-  
-  
-
-   
+![](/uploads/a2103755347_16.jpg)[mushroomstar.bandcamp.com](https://mushroomstar.bandcamp.com/album/1-11-demo "https://mushroomstar.bandcamp.com/album/1-11-demo") - raw black metal
 
 ### Contact me
 
