@@ -10,3 +10,7 @@ I followed the simple process here to get started - [https://www.smashingmagazin
 [https://app.forestry.io](https://app.forestry.io "https://app.forestry.io")
 
 Makes managing content a breeze.
+
+![](/uploads/246921_10150211887361958_5435100_n.jpg)
+
+> Hanoi Rocks
