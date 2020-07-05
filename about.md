@@ -6,7 +6,10 @@ permalink: "/about/"
 ---
 I currently live in Bloomington, IN with my wife ([http://stephaniemackphotography.com/](http://stephaniemackphotography.com/ "http://stephaniemackphotography.com/")) and our two rescue pups.
 
-### Drumming
+###   
+  
+  
+Drumming
 
 I have played drums  and collaborated in various diy bands since I was a teenager. Here are some of my past projects.
 
@@ -27,6 +30,11 @@ I have played drums  and collaborated in various diy bands since I was a teenage
 
 ![](/uploads/a2103755347_16.jpg)[https://mushroomstar.bandcamp.com/](https://mushroomstar.bandcamp.com/album/1-11-demo "https://mushroomstar.bandcamp.com/album/1-11-demo") - raw black metal
 
-### Contact me
+###   
+  
+  
+  
+  
+Contact me
 
 [dannyskelley@gmail.com](dannyskellkey@gmail.com "dannyskellkey@gmail.com")
