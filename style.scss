@@ -44,6 +44,11 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.blurb {
+  font-size:22px;
+  margin:50px 0px;
+}
+
 h1 {
   font-size: 36x;
   a {
@@ -156,11 +161,6 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
-
-  @include mobile {
-    text-align: center;
-  }
 }
 
 .site-avatar {
