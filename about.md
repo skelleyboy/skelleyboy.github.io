@@ -12,9 +12,13 @@ I have played drums  and collaborated in various diy bands since I was a teenage
 
 ![](/uploads/screen-shot-2020-07-04-at-9-41-32-pm.png)[https://truus.bandcamp.com/](https://truus.bandcamp.com/releases "https://truus.bandcamp.com/releases") - black metal
 
-![](/uploads/image1.JPG)![](/uploads/11073465_10152826929096958_3718963043507169441_n.jpg)
+![](/uploads/image1.JPG)
 
 [https://widowandchildren.bandcamp.com/](https://widowandchildren.bandcamp.com/album/volume-i "https://widowandchildren.bandcamp.com/album/volume-i") - heavy doom
+
+![](/uploads/artworks-000135419356-h8a7ad-t500x500.jpg)
+
+![](/uploads/logo.jpg)[https://soundcloud.com/skelley-daniels/mulva-demo](https://soundcloud.com/skelley-daniels/mulva-demo "https://soundcloud.com/skelley-daniels/mulva-demo") - space metal
 
 ### Contact me
 
