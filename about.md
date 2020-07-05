@@ -53,6 +53,12 @@ Vinyl released on [Found Object](http://www.foundobjectrecords.com/offerings/wid
 
 ![](/uploads/a2103755347_16.jpg)[mushroomstar.bandcamp.com](https://mushroomstar.bandcamp.com/album/1-11-demo "https://mushroomstar.bandcamp.com/album/1-11-demo") - raw black metal
 
+<br><br>
+
+and finally my first recording from high school along with some of my first photoshop work :)
+
+![](/uploads/a1759652723_10.jpg)[virginiaisforlovers.bandcamp.com](https://virginiaisforlovers.bandcamp.com "https://virginiaisforlovers.bandcamp.com")
+
 <br><br><br><br>
 
 ### Contact me
