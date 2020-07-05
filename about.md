@@ -12,13 +12,15 @@ I have played drums  and collaborated in various diy bands since I was a teenage
 
 ![](/uploads/screen-shot-2020-07-04-at-9-41-32-pm.png)[https://truus.bandcamp.com/](https://truus.bandcamp.com/releases "https://truus.bandcamp.com/releases") - black metal
 
+![](/uploads/sekrete.jpg)[https://sekrete.bandcamp.com/](https://sekrete.bandcamp.com/album/endless-fucking-nightmare "https://sekrete.bandcamp.com/album/endless-fucking-nightmare") - hardcore noise punk
+
 ![](/uploads/image1.JPG)
 
 [https://widowandchildren.bandcamp.com/](https://widowandchildren.bandcamp.com/album/volume-i "https://widowandchildren.bandcamp.com/album/volume-i") - heavy doom
 
-![](/uploads/artworks-000135419356-h8a7ad-t500x500.jpg)
+![](/uploads/a2103755347_16.jpg)
 
-![](/uploads/logo.jpg)[https://soundcloud.com/skelley-daniels/mulva-demo](https://soundcloud.com/skelley-daniels/mulva-demo "https://soundcloud.com/skelley-daniels/mulva-demo") - space metal
+[https://mushroomstar.bandcamp.com/](https://mushroomstar.bandcamp.com/album/1-11-demo "https://mushroomstar.bandcamp.com/album/1-11-demo") - raw black metal
 
 ### Contact me
 
