@@ -4,13 +4,17 @@ title: About
 permalink: "/about/"
 
 ---
-I currently live in Bloomington, IN with my wife [Stephanie Mack](http://stephaniemackphotography.com/) and our two rescue pups Bömber & Grimley.  
+I currently live in Bloomington, IN with my wife [Stephanie Mack](http://stephaniemackphotography.com/) and our two rescue pups Bömber & Grimley.
 
-  
+<br><br>
 
-### Drumming  
+<br><br>
 
-  
+### Drumming
+
+<br><br>
+
+### 
 
 ![](/uploads/screen-shot-2020-07-04-at-9-41-32-pm.png)[truus.bandcamp.com](https://truus.bandcamp.com/releases "https://truus.bandcamp.com/releases") - black metal
 
