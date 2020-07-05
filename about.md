@@ -6,6 +6,8 @@ permalink: "/about/"
 ---
 I currently live in Bloomington, IN with my wife [Stephanie Mack](http://stephaniemackphotography.com/) and our two rescue pups Bömber & Grimley.
 
+![/uploads/img_4844.jpg](https://app.forestry.io/sites/mtxlydduzuiirw/body-media//uploads/img_4844.jpg)
+
 <br><br>
 
 ## Other things I am passionate about
@@ -40,6 +42,12 @@ Here are some of the projects I have drummed/ collaborated on -
 ![](/uploads/image1.JPG)
 
 Vinyl released on [Found Object](http://www.foundobjectrecords.com/offerings/widowandchildren) (Austin, TX) tape on Hellas (Indonesia)
+
+<br><br>
+
+![](/uploads/img_4847.jpg)
+
+[hereticfl.bandcamp.com](https://hereticfl.bandcamp.com/ "https://hereticfl.bandcamp.com/") - metal punk
 
 <br><br>
 
