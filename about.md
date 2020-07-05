@@ -23,7 +23,7 @@ I currently live in Bloomington, IN with my wife [Stephanie Mack](http://stephan
 
 ![](/uploads/image1.JPG)
 
-[http://www.foundobjectrecords.com/offerings/widowandchildren](http://www.foundobjectrecords.com/offerings/widowandchildren "http://www.foundobjectrecords.com/offerings/widowandchildren")
+Vinyl released on [Found Object](http://www.foundobjectrecords.com/offerings/widowandchildren) (Austin, TX) tape on Hellas (Indonesia)
 
 ![](/uploads/a2103755347_16.jpg)[https://mushroomstar.bandcamp.com/](https://mushroomstar.bandcamp.com/album/1-11-demo "https://mushroomstar.bandcamp.com/album/1-11-demo") - raw black metal
 
