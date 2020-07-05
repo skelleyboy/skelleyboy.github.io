@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Info about how this site was built
+title: How this site was built
 
 ---
 This is a free static blog created and hosted with github.
