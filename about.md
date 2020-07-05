@@ -14,6 +14,9 @@ I have played drums  and collaborated in various diy bands since I was a teenage
 
 ![](/uploads/sekrete.jpg)[https://sekrete.bandcamp.com/](https://sekrete.bandcamp.com/album/endless-fucking-nightmare "https://sekrete.bandcamp.com/album/endless-fucking-nightmare") - hardcore noise punk
 
+<!-- iframe.snippet -->
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/231792940&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skelley-daniels" title="Skelley Daniels" target="_blank" style="color: #cccccc; text-decoration: none;">Skelley Daniels</a> · <a href="https://soundcloud.com/skelley-daniels/mulva-demo" title="Mulva - Demo" target="_blank" style="color: #cccccc; text-decoration: none;">Mulva - Demo</a></div>
+
 ![](/uploads/image1.JPG)
 
 [https://widowandchildren.bandcamp.com/](https://widowandchildren.bandcamp.com/album/volume-i "https://widowandchildren.bandcamp.com/album/volume-i") - heavy doom
