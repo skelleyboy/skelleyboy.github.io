@@ -3,6 +3,11 @@ layout: post
 title: Build this site
 
 ---
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FjK2zknBW4xPekDqUK8ktWu%2FUntitled%3Fnode-id%3D0%253A1&chrome=DOCUMENTATION" allowfullscreen></iframe>
+
+<br><br>
+
 Follow this guide to build your own site.
 
 This is a free static blog created and hosted with github. You can very easily and quickly create your own.
