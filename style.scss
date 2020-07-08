@@ -16,7 +16,7 @@
 html {
   font-size: 100%;
 }
-.embed_documentation_footer--documentationFooter--2gpG4 {display:none!important;}
+
 body {
 	background: $white;
   font: 18px/1.4 $helvetica;
@@ -155,6 +155,14 @@ img {
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
+
+#figma-iframe {
+    height:400px;
+    width:100%;
+
+    @include mobile {
+      height:150px;
+    }
 
 //
 // .masthead
