@@ -12,11 +12,27 @@
 /**************/
 /* BASE RULES */
 /**************/
-
+*{transition: all ease .2s;}
 html {
   font-size: 100%;
 }
-
+.read-more {
+	display:inline-block;
+	padding:10px 30px;
+	margin:30px 0px;
+	border-radius:55px;
+	background-color:black;
+	font-weight:bold;
+	color:white;
+	border-color: black;
+	border-width: 0.01em;
+	border-style: solid;
+}
+.read-more:hover {
+	background-color:white;
+	color:black;
+}
+	
 body {
 	background: $white;
   font: 18px/1.4 $helvetica;
