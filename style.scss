@@ -16,22 +16,6 @@
 html {
   font-size: 100%;
 }
-.read-more {
-	display:inline-block;
-	padding:10px 30px;
-	margin:30px 0px;
-	border-radius:55px;
-	background-color:black;
-	font-weight:bold;
-	color:white;
-	border-color: black;
-	border-width: 0.01em;
-	border-style: solid;
-}
-.read-more:hover {
-	background-color:white;
-	color:black;
-}
 	
 body {
 	background: $white;
@@ -295,10 +279,22 @@ nav {
     margin-top: 10px;
   }
 
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
+.read-more {
+	display:inline-block;
+	padding:5px 30px;
+	margin:30px 0px;
+	border-radius:55px;
+	background-color:black;
+	color:white;
+	border-color: black;
+	border-width: 0.01em;
+	border-style: solid;
+	font-size:14px;
+}
+.read-more:hover {
+	background-color:white;
+	color:black;
+}
 }
 
 .wrapper-footer {
