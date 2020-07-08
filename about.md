@@ -18,7 +18,7 @@ I currently live in Bloomington, IN with my wife [Stephanie Mack](http://stephan
 
 Music has been a passion of mine my whole life. Most of my initial interest in learning design relates back to countless hours making band websites for friends in my local music scene growing up.
 
-Here are some recordings of my drumming - 
+Here are some recordings of my drumming -
 
 * [truus.bandcamp.com](https://truus.bandcamp.com/releases "https://truus.bandcamp.com/releases")
 * [sekrete.bandcamp.com](https://sekrete.bandcamp.com/album/endless-fucking-nightmare "https://sekrete.bandcamp.com/album/endless-fucking-nightmare")
@@ -26,9 +26,8 @@ Here are some recordings of my drumming -
 * [widowandchildren.bandcamp.com](https://widowandchildren.bandcamp.com/ "https://widowandchildren.bandcamp.com/")
 * [hereticfl.bandcamp.com](https://hereticfl.bandcamp.com/ "https://hereticfl.bandcamp.com/")
 * [mushroomstar.bandcamp.com](https://mushroomstar.bandcamp.com/album/1-11-demo "https://mushroomstar.bandcamp.com/album/1-11-demo")
-* [virginiaisforlovers.bandcamp.com](https://virginiaisforlovers.bandcamp.com "https://virginiaisforlovers.bandcamp.com")
 
-<br><br><br><br>
+<br><br>
 
 ### Contact me
 
