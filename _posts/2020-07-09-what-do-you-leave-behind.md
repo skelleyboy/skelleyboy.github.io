@@ -28,4 +28,4 @@ It gives you the opportunity to try something and see how people respond.
 7. You will discover something new.
 
   
-And start you open your eyes to the needs of others.
+And start to open your eyes to the needs of others.
