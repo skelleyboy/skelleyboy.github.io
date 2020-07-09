@@ -3,7 +3,7 @@ layout: post
 title: What do you leave behind?
 
 ---
-![](/uploads/resources.jpg)
+![](/uploads/color.jpg)
 
 Design gives you the opportunity to put things into the world.
 
