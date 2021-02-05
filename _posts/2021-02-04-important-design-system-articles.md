@@ -18,3 +18,7 @@ title: Important Design System Articles
 [https://medium.com/@NateBaldwin/component-and-token-naming-in-design-systems-366bad54843f](https://medium.com/@NateBaldwin/component-and-token-naming-in-design-systems-366bad54843f "https://medium.com/@NateBaldwin/component-and-token-naming-in-design-systems-366bad54843f")
 
 [https://medium.com/design-bootcamp/design-tokens-on-your-design-system-af1a7c35ff06](https://medium.com/design-bootcamp/design-tokens-on-your-design-system-af1a7c35ff06 "https://medium.com/design-bootcamp/design-tokens-on-your-design-system-af1a7c35ff06")
+
+[https://coda.io/@yuhki/figma-product-roadmap](https://coda.io/@yuhki/figma-product-roadmap "https://coda.io/@yuhki/figma-product-roadmap")
+
+[https://medium.com/harvard-in-tech/harvard-in-tech-spotlight-yuhki-yamashita-vp-of-product-at-figma-64e808290c3a](https://medium.com/harvard-in-tech/harvard-in-tech-spotlight-yuhki-yamashita-vp-of-product-at-figma-64e808290c3a "https://medium.com/harvard-in-tech/harvard-in-tech-spotlight-yuhki-yamashita-vp-of-product-at-figma-64e808290c3a")
