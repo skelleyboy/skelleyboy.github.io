@@ -5,6 +5,8 @@ title: Important Design System Articles
 ---
 [https://agilemanifesto.org](https://agilemanifesto.org "https://agilemanifesto.org")
 
+[https://cloudfour.com/thinks/component-specific-design-tokens/](https://cloudfour.com/thinks/component-specific-design-tokens/ "https://cloudfour.com/thinks/component-specific-design-tokens/")
+
 [https://www.benrajalu.net/articles/is-it-a-design-system](https://www.benrajalu.net/articles/is-it-a-design-system?ref=webdesignernews.com "https://www.benrajalu.net/articles/is-it-a-design-system?ref=webdesignernews.com")
 
 [https://medium.com/eightshapes-llc/defining-design-systems-6dd4b03e0ff6](https://medium.com/eightshapes-llc/defining-design-systems-6dd4b03e0ff6 "https://medium.com/eightshapes-llc/defining-design-systems-6dd4b03e0ff6")
