@@ -5,6 +5,8 @@ title: Important Design System Articles
 ---
 [https://agilemanifesto.org](https://agilemanifesto.org "https://agilemanifesto.org")
 
+[https://uxdesign.cc/we-gave-up-sketch-and-rebuilt-our-design-system-in-figma-a1dfc64948e5](https://uxdesign.cc/we-gave-up-sketch-and-rebuilt-our-design-system-in-figma-a1dfc64948e5 "https://uxdesign.cc/we-gave-up-sketch-and-rebuilt-our-design-system-in-figma-a1dfc64948e5")
+
 [https://cloudfour.com/thinks/component-specific-design-tokens/](https://cloudfour.com/thinks/component-specific-design-tokens/ "https://cloudfour.com/thinks/component-specific-design-tokens/")
 
 [https://www.benrajalu.net/articles/is-it-a-design-system](https://www.benrajalu.net/articles/is-it-a-design-system?ref=webdesignernews.com "https://www.benrajalu.net/articles/is-it-a-design-system?ref=webdesignernews.com")
