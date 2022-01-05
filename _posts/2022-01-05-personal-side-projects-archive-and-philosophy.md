@@ -22,7 +22,7 @@ Here are some tips for not only getting started, but actually making and releasi
 5. Make your project 'live' day one. Test it on multiple devices.
 6. Create an MVP in one day.
 7. Iterate on your project to improve it after using it.
-8. Share your work with other. Repeat.
+8. Share your work with others. Repeat.
 9. Profit.
 
 # Personal side projects archive
