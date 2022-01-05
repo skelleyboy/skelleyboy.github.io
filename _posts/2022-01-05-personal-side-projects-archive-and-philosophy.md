@@ -59,11 +59,15 @@ At the start of the pandemic I thought it would be worth my time to enroll in a 
 
 [https://www.coursera.org/learn/the-science-of-well-being](https://www.coursera.org/learn/the-science-of-well-being "https://www.coursera.org/learn/the-science-of-well-being")
 
-In short, our daily habits determine our happiness level. Specific daily tasks can help increase happiness.
+In short, our daily habits determine our happiness level. Specific daily science backed tasks can help increase happiness.
 
 The course has an app related to these tasks. It is not simple enough. I found a 5 minute daily gratitude journal that I loved. When they redesigned their app it gave me a reason to scratch my own itch. I need simple and actionable items. Nothing more. Keep it simple.
 
 I have iterated on the project and tasks multiple times. I enjoy setting it as a homepage but it is easily accessible via phone as well.
+
+**What I learned about and tested:**
+
+I wanted to expand the philosophy of quick creation of project 1. This project started out as basic as possible and has evolved over time. When I found myself not using it would try to improve on it. I wanted to make something web app like without any javascript or programming.
 
 ### Project 1
 
