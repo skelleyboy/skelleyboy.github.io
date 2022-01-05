@@ -3,8 +3,6 @@ layout: post
 title: Personal side projects archive and philosophy
 
 ---
-# Personal side projects archive and philosophy
-
 When I was interviewing with GM and working on my final presentation I stumbled across Jon Yablonski. Jon's work and words were a huge inspiration prior to and after getting hired.
 
 [https://jonyablonski.com/articles/2016/a-guide-to-personal-side-projects/](https://jonyablonski.com/articles/2016/a-guide-to-personal-side-projects/ "https://jonyablonski.com/articles/2016/a-guide-to-personal-side-projects/")
