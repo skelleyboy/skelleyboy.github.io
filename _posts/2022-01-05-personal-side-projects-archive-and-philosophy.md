@@ -15,13 +15,13 @@ Here are some tips for not only getting started, but actually making and releasi
 
 # Personal side projects philosophy
 
-1. Make something useful. Scratch your own itch. Make something real you will actually use. Make real products that help solve reoccurring real problems in your life. There is a chance other people have the same problem.
+1. Make something useful or enjoyable. Scratch your own itch. Make something real you will actually use or enjoy. Make real products that help solve reoccurring real problems in your life, or simple be creative and bring yourself joy. There is a chance other people have the same problem or will also enjoy what you have created.
 2. Have fun. Enjoy the process.
-3. Make things you can share with the world.
+3. Make things you can share with the world. Get feedback.
 4. Keep it simple. Use the skills you already have.
-5. Create an MVP in one day.
+5. Create an MVP in one day. Share it with someone.
 6. Make your project 'live' day one. Test it on multiple devices.
-7. Iterate on your project.
+7. Iterate on your project to improve it after using it.
 8. Profit.
 9. Repeat.
 
