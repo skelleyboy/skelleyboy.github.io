@@ -69,7 +69,7 @@ I have iterated on the project and tasks multiple times. I enjoy setting it as a
 
 **What I learned about and tested:**
 
-I wanted to expand the philosophy of quick creation of project 1. This project started out as basic as possible and has evolved over time. When I found myself not using it would try to improve on it. I wanted to make something web app like without any javascript or programming.
+I wanted to expand the philosophy of quick creation of project 1. This project started out as basic as possible and has evolved over time. When I found myself not using it I would try to improve on it. I wanted to make something web app like without any javascript or programming.
 
 ### Project 1
 
