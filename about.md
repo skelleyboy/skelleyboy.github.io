@@ -15,8 +15,6 @@ Currently living in Detroit wokring @ GM
 
 ### Drumming
 
-![/uploads/artworks-000135419356-h8a7ad-t500x500.jpg](https://app.forestry.io/sites/mtxlydduzuiirw/body-media//uploads/artworks-000135419356-h8a7ad-t500x500.jpg)
-
 Music has been a passion of mine my whole life. Most of my initial interest in learning design relates back to countless hours making band websites for friends in my local music scene growing up.
 
 Here are some recordings of my drumming -
