@@ -1,0 +1,88 @@
+I"�<p><img src="/uploads/screen-shot-2022-01-05-at-1-40-40-pm.png" alt="" /></p>
+
+<p>When I was interviewing with GM and working on my final presentation I stumbled across Jon Yablonski. Jon’s work and words were a huge inspiration prior to and after getting hired.</p>
+
+<p><a href="https://jonyablonski.com/articles/2016/a-guide-to-personal-side-projects/" title="https://jonyablonski.com/articles/2016/a-guide-to-personal-side-projects/">https://jonyablonski.com/articles/2016/a-guide-to-personal-side-projects/</a></p>
+
+<p>As an artist some times the hardest thing to do is start. The blank page can be daunting. Even after starting, how often do we finish and release what we have started?</p>
+
+<p>Here are some tips for not only getting started, but actually making and releasing something real, today, not tomorrow, not a week from now.</p>
+
+<h1 id="personal-side-projects-philosophy">Personal side projects philosophy</h1>
+
+<ol>
+  <li>Make something useful or enjoyable. Scratch your own itch. Make something real you will actually use or enjoy. Make real products that help solve reoccurring real problems in your life. Or simply be creative and bring yourself joy. There is a chance other people have the same problem or will also enjoy what you have created.</li>
+  <li>Have fun. Enjoy the process.</li>
+  <li>Make things you can share with the world. Get feedback.</li>
+  <li>Keep it simple. Use the skills you already have. You will learn something new.</li>
+  <li>Make your project ‘live’ day one. Test it on multiple devices.</li>
+  <li>Create an MVP in one day.</li>
+  <li>Iterate on your project to improve it after using it.</li>
+  <li>Share your work with others. Repeat.</li>
+  <li>Profit.</li>
+</ol>
+
+<h1 id="personal-side-projects-archive">Personal side projects archive</h1>
+
+<h3 id="project-4"><strong>Project 4</strong></h3>
+
+<ul>
+  <li><a href="https://dannyskelley.com/cookin/" title="https://dannyskelley.com/cookin/"><strong>https://dannyskelley.com/cookin/</strong></a></li>
+</ul>
+
+<p>This is an expansion of the last idea. BUT Imagine a world where you could easily access the recipes you use a lot. Is there a cooking social network for sharing recipes? Death to recipe blogs!</p>
+
+<p><strong>What I learned about and tested:</strong></p>
+
+<p>Cloning dannyskelley.com and customizing the Jekyll theme further. Using static site generators as CMS that are updatable via phones. Managing multiple github projects under a single domain <a href="https://github.com/skelleyboy" title="https://github.com/skelleyboy">https://github.com/skelleyboy</a></p>
+
+<h3 id="project-3"><strong>Project 3</strong></h3>
+
+<ul>
+  <li><a href="https://dannyskelley.com/homecookinpizza/" title="https://dannyskelley.com/homecookinpizza/"><strong>https://dannyskelley.com/homecookinpizza/</strong></a></li>
+</ul>
+
+<p>I found myself googling the same dough recipe over and over. Most recipe blogs have super long articles and tons of ads. google: “recipe blog memes”</p>
+
+<p><strong>What I learned about and tested:</strong></p>
+
+<p>1. prefers-color-scheme: dark</p>
+
+<p>The <strong>prefers-color-scheme</strong> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries#media_features">media feature</a> is used to detect if the user has requested a light or dark color theme.</p>
+
+<p>The user might indicate this preference through an operating system setting (e.g. light or dark mode) or a user agent setting.</p>
+
+<p>2. A refresher on adding google analytics. Every time I use google analytics I end up searching for whatever other options exist at the time. No wonder people pay others for google seo and marketing ;)</p>
+
+<h3 id="project-2"><strong>Project 2</strong></h3>
+
+<ul>
+  <li><a href="https://dannyskelley.com/happyeveryday/" title="https://dannyskelley.com/happyeveryday/"><strong>https://dannyskelley.com/happyeveryday/</strong></a></li>
+</ul>
+
+<p>At the start of the pandemic I thought it would be worth my time to enroll in a free course from Yale on happiness.</p>
+
+<p><a href="https://www.coursera.org/learn/the-science-of-well-being" title="https://www.coursera.org/learn/the-science-of-well-being">https://www.coursera.org/learn/the-science-of-well-being</a></p>
+
+<p>In short, our daily habits determine our happiness level. Specific daily science backed tasks can help increase happiness.</p>
+
+<p>The course has an app related to these tasks. It is not simple enough. I found a 5 minute daily gratitude journal that I loved. When they redesigned their app it gave me a reason to scratch my own itch. I need simple and actionable items. Nothing more. Keep it simple.</p>
+
+<p>I have iterated on the project and tasks multiple times. I enjoy setting it as a homepage but it is easily accessible via phone as well.</p>
+
+<p><strong>What I learned about and tested:</strong></p>
+
+<p>I wanted to expand the philosophy of quick creation of project 1. This project started out as basic as possible and has evolved over time. When I found myself not using it I improved on it. I wanted to make something web app like without any javascript or programming. I wanted to prove how much impact a simple project could create on your life.</p>
+
+<h3 id="project-1">Project 1</h3>
+
+<ul>
+  <li><a href="https://dannyskelley.com/sketch-shortcuts-background/" title="https://dannyskelley.com/sketch-shortcuts-background/">https://dannyskelley.com/sketch-shortcuts-background/</a></li>
+</ul>
+
+<p>This is how I got the ball rolling. A super simple project that took minutes instead of days and would be helpful for myself and others.</p>
+
+<p><strong>What I learned about and tested:</strong></p>
+
+<p>Getting something done and sharing it. Customizing layouts using html/css Firefox developer tools inspector.</p>
+:ET
