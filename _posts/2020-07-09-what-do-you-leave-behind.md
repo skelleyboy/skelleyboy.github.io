@@ -1,8 +1,9 @@
 ---
 layout: post
 title: What do you leave behind?
-
+_template: blog_post
 ---
+
 ![](/uploads/color-1.jpg)
 
 Design gives you the opportunity to put things into the world.

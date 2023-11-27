@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Personal side projects archive and philosophy
-
+_template: blog_post
 ---
+
 ![](/uploads/screen-shot-2022-01-05-at-1-40-40-pm.png)
 
 When I was interviewing with GM and working on my final presentation I stumbled across Jon Yablonski. Jon's work and words were a huge inspiration prior to and after getting hired.
