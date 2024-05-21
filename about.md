@@ -19,6 +19,7 @@ Music has been a passion of mine my whole life. Most of my initial interest in l
 
 Here are some recordings of my drumming -
 
+* [noxaaxon.bandcamp.com](https://noxaaxon.bandcamp.com/album/join-the-hard-corps-kill-the-hype "https://noxaaxon.bandcamp.com/album/join-the-hard-corps-kill-the-hype")
 * [truus.bandcamp.com](https://truus.bandcamp.com/releases "https://truus.bandcamp.com/releases")
 * [bashersucks.bandcamp.com](https://bashersucks.bandcamp.com/ "BASHER")
 * [sekrete.bandcamp.com](https://sekrete.bandcamp.com/album/endless-fucking-nightmare "https://sekrete.bandcamp.com/album/endless-fucking-nightmare")
