@@ -6,7 +6,7 @@ permalink: "/about/"
 ---
 
 
-Currently living in Detroit wokring @ GM
+Currently living in Detroit working @ GM
 <br><br>
 
 ## Other things I am passionate about
